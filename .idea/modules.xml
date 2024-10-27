@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/big_mic.iml" filepath="$PROJECT_DIR$/.idea/modules/big_mic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/big_mic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/big_mic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/me.aot202.big_mic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/me.aot202.big_mic.main.iml" />
     </modules>
   </component>
 </project>
