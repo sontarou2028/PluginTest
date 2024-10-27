@@ -1,0 +1,4 @@
+name: big mic
+version: '1.0-SNAPSHOT'
+main: me.aot202.Main
+api-version: '1.21'

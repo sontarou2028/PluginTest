@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="big_mic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/big_mic_jar</output-path>
+    <root id="archive" name="big_mic.jar">
+      <element id="module-output" name="big_mic" />
+    </root>
+  </artifact>
+</component>
